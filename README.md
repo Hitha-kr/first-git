@@ -1,4 +1,4 @@
 # first-git
 first respository
-\n
+/n
 author me
